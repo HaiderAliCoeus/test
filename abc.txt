@@ -15,3 +15,5 @@ for getting difference bitween files.
 -----------------------------------------------------------------
 Electricity 		| 500
 Water and sanitation    | 6000
+
+some more test in coues/test
