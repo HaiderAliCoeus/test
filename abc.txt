@@ -5,3 +5,9 @@ These seems like revert in SVN, I might say.
 
 
 for getting difference bitween files.
+
+
+-----------------------------------------------------------------				Added some bills
+-----------------------------------------------------------------
+Electricity 		| 500
+Water and sanitation    | 6000
