@@ -1,7 +1,3 @@
-file
-files goes here
-here is some files
-
 my file has been changed with some text.
 
 Everything is fine except of my concepts about git reset and revert.
@@ -15,3 +11,6 @@ for getting difference bitween files.
 -----------------------------------------------------------------
 Electricity 		| 500
 Water and sanitation    | 6000
+
+some more text.
+ some more test in github pulled directory files.
