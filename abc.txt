@@ -2,3 +2,6 @@ my file has been changed with some text.
 
 Everything is fine except of my concepts about git reset and revert.
 These seems like revert in SVN, I might say.
+
+
+for getting difference bitween files.
